@@ -4,10 +4,7 @@
   "description": "assignment created with a catalin-luntraru redux-minimal boilerplate",
   "keywords": [
     "react",
-    "redux",
-    "minimal",
-    "starter kit",
-    "boilerplate"
+    "redux"
   ],
   "main": "index.js",
   "homepage": "",
@@ -29,7 +26,7 @@
       "stage-3"
     ]
   },
-  "author": "Catalin Luntraru",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "react": "^15.4.2",
@@ -68,11 +65,5 @@
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2",
     "whatwg-fetch": "^2.0.1"
-  },
-  "bugs": {
-    "url": "https://github.com/catalin-luntraru/redux-minimal/issues"
-  },
-  "directories": {
-    "test": "test"
   }
 }
